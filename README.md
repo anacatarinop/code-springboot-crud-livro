@@ -1,8 +1,9 @@
 # Spring Boot, MySQL, JPA, Hibernate Rest API
 
 Aplicação utilizando Spring Boot, MySQL, JPA e Hibernate.
+Esta API foi projetada para ser utilizada com a [Interface Gráfica Web para Gerenciamento de Livros](https://github.com/anacatarinop/code-web-interface-livro).
 
-## Requirements
+## Requisitos
 
 1. Java - 1.8.x
 2. Maven - 3.x.x
